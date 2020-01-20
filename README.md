@@ -20,3 +20,7 @@ Instructions, tools, links and hex files for flashing kbdfans kbd19x. Mainly for
 - In our layout print screen, and delete keys were important
 - For a more advanced layout, switching the "\" and "backspace" keys, going with a 1 unit "\" would allow the addition of the delete key above backspace. 
 
+# Result of final layout
+- Find the json file here: https://github.com/okjustgo/kbd19x/blob/master/final_kbd19x.json
+- Layout PDF can be found here: https://github.com/okjustgo/kbd19x/blob/master/final_kbd19x.pdf
+
